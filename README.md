@@ -47,6 +47,12 @@
 
 - [RAML](http://raml.org/) (RESTful API)
 
+### 服务器端
+
+- [Node.js](https://nodejs.org/)
+- [io.js](https://iojs.org/)
+- [RingoJS](http://ringojs.org/)
+
 ### 客户端 - PC 端
 
 - [atom-shell](https://github.com/atom/atom-shell)
@@ -78,6 +84,7 @@
 ### 前端库 - 其他
 
 - [WebTorrent](https://github.com/feross/webtorrent)
+- [JS-Git](https://github.com/creationix/js-git)
 
 ### 兼容性
 
