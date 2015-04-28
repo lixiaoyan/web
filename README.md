@@ -77,7 +77,7 @@
 - [React](http://facebook.github.io/react/)
   - [react-canvas](https://github.com/Flipboard/react-canvas)
 - [Ractive.js](http://www.ractivejs.org/)
-- [riot.js](https://muut.com/riotjs/)
+- ~~[riot.js](https://muut.com/riotjs/)~~ ([#334](https://github.com/muut/riotjs/issues/334))
 - [Mithril](http://lhorie.github.io/mithril/)
 - [X-Tag](http://www.x-tags.org/)
 
