@@ -36,7 +36,7 @@
 
 - [npm](https://www.npmjs.com/)
 - [jspm](http://jspm.io/)
-- [normalize.io](https://normalize.github.io/) (incomplete)
+- ~~[normalize.io](https://normalize.github.io/) (incomplete)~~ ([link](http://www.jongleberry.com/the-story-of-normalize.html))
 
 ### 模块合并
 
