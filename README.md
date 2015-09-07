@@ -17,11 +17,12 @@
 ### 样式表
 
 - [Less](http://lesscss.org/)
-- [React Style](https://github.com/js-next/react-style)
+- [CSS Modules](https://github.com/css-modules/css-modules)
 
 ### 编辑器 / IDE
 
 - [Vim](http://www.vim.org/) / [neovim](http://neovim.org/)
+- [Atom](https://atom.io/)
 - [Brackets](http://brackets.io/)
 - [Webstorm](https://www.jetbrains.com/webstorm/)
 
@@ -55,7 +56,7 @@
 
 ### 客户端 - PC 端
 
-- [atom-shell](https://github.com/atom/atom-shell)
+- [Electron](https://github.com/atom/electron)
 
 ### 客户端 - 移动端
 
@@ -64,8 +65,14 @@
 - [Sky](https://github.com/domokit/sky_sdk) (incomplete)
 - [TideKit](https://www.tidekit.com/) (incomplete)
 
+### ECMAScript
+
+- [Observable](https://github.com/zenparsing/es-observable)
+- [decorator](https://github.com/wycats/javascript-decorators)
+
 ### 前端库 - 工具库
 
+- [Redux](https://github.com/rackt/redux)
 - [RxJS](https://github.com/Reactive-Extensions/RxJS) (functional reactive programming)
 - [Bacon.js](http://baconjs.github.io/) (functional reactive programming)
 
@@ -76,9 +83,9 @@
 ### 前端库 - View
 
 - [React](http://facebook.github.io/react/)
-  - [react-canvas](https://github.com/Flipboard/react-canvas)
+  - [React Redux](https://github.com/rackt/react-redux)
 - [Ractive.js](http://www.ractivejs.org/)
-- ~~[riot.js](https://muut.com/riotjs/)~~ ([#334](https://github.com/muut/riotjs/issues/334))
+- [riot.js](https://muut.com/riotjs/)
 - [Mithril](http://lhorie.github.io/mithril/)
 - [X-Tag](http://www.x-tags.org/)
 
