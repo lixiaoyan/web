@@ -61,7 +61,7 @@
 
 - [React Native](http://facebook.github.io/react-native/)
 - [NativeScript](https://www.nativescript.org/)
-- [Sky](https://github.com/domokit/sky_sdk) (incomplete)
+- [Flutter](https://github.com/flutter/flutter)
 - [TideKit](https://www.tidekit.com/) (incomplete)
 
 ### ECMAScript
