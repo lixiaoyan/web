@@ -1,7 +1,5 @@
 # Web 开发相关资源推荐
 
-施工中...
-
 ### 写在前面
 
 这是一个完全个人向的推荐列表, 列表内绝大多数东西都是我自己在用的 / 用过的, 剩下的那部分都是我准备尝试的. 不过也有可能乱入一些奇怪的东西. 会依照个人喜好砍掉一些不爽的 / 坑多的东西, 所以某些很火的东西可能并不会包含在这个推荐列表内. 不欢迎 pull request.
@@ -17,6 +15,7 @@
 ### 样式表
 
 - [Less](http://lesscss.org/)
+- [PostCSS](https://github.com/postcss/postcss)
 - [CSS Modules](https://github.com/css-modules/css-modules)
 
 ### 编辑器 / IDE
@@ -85,6 +84,9 @@
 - [React](http://facebook.github.io/react/)
   - [React Redux](https://github.com/rackt/react-redux)
 - [Ractive.js](http://www.ractivejs.org/)
+- [aurelia](http://aurelia.io/)
+- [mercury](https://github.com/Raynos/mercury)
+- [Deku](https://github.com/dekujs/deku)
 - [riot.js](https://muut.com/riotjs/)
 - [Mithril](http://lhorie.github.io/mithril/)
 - [X-Tag](http://www.x-tags.org/)
