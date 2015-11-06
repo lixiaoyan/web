@@ -83,6 +83,7 @@
 
 - [React](http://facebook.github.io/react/)
   - [React Redux](https://github.com/rackt/react-redux)
+- [Flint](http://flintjs.com/)
 - [Ractive.js](http://www.ractivejs.org/)
 - [aurelia](http://aurelia.io/)
 - [mercury](https://github.com/Raynos/mercury)
