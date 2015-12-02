@@ -61,7 +61,7 @@
 
 - [React Native](http://facebook.github.io/react-native/)
 - [NativeScript](https://www.nativescript.org/)
-- [Flutter](https://github.com/flutter/flutter)
+- [Flutter](http://flutter.io/)
 - [TideKit](https://www.tidekit.com/) (incomplete)
 
 ### ECMAScript
