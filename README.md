@@ -10,6 +10,8 @@
 - [CoffeeScript](http://coffeescript.org/)
 - [Dart](https://www.dartlang.org/)
 - [Elm](http://elm-lang.org/)
+- [PureScript](http://www.purescript.org/)
+- [imba](http://imba.io/)
 - [ClojureScript](https://github.com/clojure/clojurescript)
 
 ### 样式表
@@ -41,7 +43,7 @@
 ### 模块合并
 
 - [webpack](http://webpack.github.io/)
-- [jspm](http://jspm.io/)
+- [SystemJS Builder](https://github.com/systemjs/builder)
 
 ### 通用规范
 
@@ -50,19 +52,19 @@
 ### 服务器端
 
 - [Node.js](https://nodejs.org/)
-- [io.js](https://iojs.org/)
 - [RingoJS](http://ringojs.org/)
 
 ### 客户端 - PC 端
 
 - [Electron](https://github.com/atom/electron)
+- [Positron](https://github.com/mozilla/positron)
 
 ### 客户端 - 移动端
 
 - [React Native](http://facebook.github.io/react-native/)
 - [NativeScript](https://www.nativescript.org/)
 - [Flutter](http://flutter.io/)
-- [TideKit](https://www.tidekit.com/) (incomplete)
+- ~~[TideKit](https://www.tidekit.com/) (incomplete)~~
 
 ### ECMAScript
 
@@ -72,8 +74,7 @@
 ### 前端库 - 工具库
 
 - [Redux](https://github.com/rackt/redux)
-- [RxJS](https://github.com/Reactive-Extensions/RxJS) (functional reactive programming)
-- [Bacon.js](http://baconjs.github.io/) (functional reactive programming)
+- [RxJS](https://github.com/ReactiveX/rxjs) (functional reactive programming)
 
 ### 前端库 - Polyfill
 
@@ -96,6 +97,7 @@
 
 - [WebTorrent](https://github.com/feross/webtorrent)
 - [JS-Git](https://github.com/creationix/js-git)
+- [Browser.html](https://github.com/browserhtml/browserhtml)
 
 ### 兼容性
 
